@@ -1,0 +1,5 @@
+{
+  "name": "AI Math Formula Generator",
+  "description": "Generate mathematical formulas from text descriptions and images using AI.",
+  "requestFramePermissions": ["camera"]
+}
